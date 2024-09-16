@@ -1,0 +1,6 @@
+-WHALE59
+	-GameFile Extract
+		-Script Extract		-End
+		-GameFile Extractor and Typetree generator		-End
+
+Translate - LK Garlic								?? / ??
