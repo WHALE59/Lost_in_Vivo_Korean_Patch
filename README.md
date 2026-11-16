@@ -66,8 +66,8 @@ DLC 탈출구에서 페이지가 번역되지 않는 버그 수정
 ---
 # License
 
-xdelta3 (Apache License 2.0) https://github.com/jmacd/xdelta
+[xdelta3](https://github.com/jmacd/xdelta) (Apache License 2.0) 
 
-Dalmoori font (Apache License 2.0) https://ranolp.github.io/dalmoori-font/
+[Dalmoori font](https://ranolp.github.io/dalmoori-font/) (Apache License 2.0) 
 
-Neo 둥근모 font (SIL Open Font License 1.1) https://github.com/neodgm/neodgm
+[Neo 둥근모 font](https://github.com/neodgm/neodgm) (SIL Open Font License 1.1) 
