@@ -24,4 +24,5 @@ Lost in Vivo 3.0.5 한글패치 입니다.
 
 
 ---
-감사합니다.
+이 패치는 xdelta3 (Apache License 2.0)를 사용합니다.
+https://github.com/jmacd/xdelta
