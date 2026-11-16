@@ -1,4 +1,4 @@
-# Lost in Vivo Kor Korean Patch
+# Lost in Vivo Korean Patch
 
 Lost in Vivo 3.0.5 한글패치 입니다.
 
