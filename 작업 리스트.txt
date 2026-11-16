@@ -1,5 +1,0 @@
--WHALE59
-	-Script Extract		-End
-	-GameFile Extractor and Typetree generator		-End
-
-LK Garlic							
