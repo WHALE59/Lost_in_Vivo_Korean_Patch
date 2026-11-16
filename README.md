@@ -70,4 +70,4 @@ xdelta3 (Apache License 2.0) https://github.com/jmacd/xdelta
 
 Dalmoori font (Apache License 2.0) https://ranolp.github.io/dalmoori-font/
 
-Neo 둥근모 font (SIL Open Font License 1.1) https://neodgm.dalgona.dev/
+Neo 둥근모 font (SIL Open Font License 1.1) https://github.com/neodgm/neodgm
