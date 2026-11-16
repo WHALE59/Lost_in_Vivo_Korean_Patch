@@ -20,8 +20,11 @@ Release 파일을 받아 게임폴더에 덮어씌우면 됩니다.
 `WHALE59`
 
 ---
-# 스크린샷
+# Preview
 
+![메인화면](./Screenshot/1.png)
+![설정](./Screenshot/2.png)
+![인벤토리](./Screenshot/3.png)
 
 
 ---
