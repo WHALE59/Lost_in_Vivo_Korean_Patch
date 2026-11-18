@@ -1,5 +1,15 @@
 # Lost in Vivo 비공식 한글패치
 
+<p align="center">
+  <a href="https://store.steampowered.com/app/963710/Lost_in_Vivo/">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/963710/header.jpg" width="460" alt="Lost in Vivo">
+  </a>
+  <br>
+  <sub>이미지 클릭 시 스팀 상점 페이지로 이동합니다.</sub>
+</p>
+
+
+
 Lost in Vivo 3.0.5 한글패치 입니다.
 
 버그, 오역 등이 있다면 이슈 등록해주세요.
